@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZoulj+TUwGrnlAUAnn/bRqscSTZ6r6ZMceJtaNoBjSKeb7yP1GFgvkAeQDurVg+5f8MJxkFwjEKP6NXcdmDsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maham\\Desktop\\WinFormsHomeApp3\\WinFormsHomeApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
